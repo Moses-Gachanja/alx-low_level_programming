@@ -1,6 +1,10 @@
 /*
  * File: 5-print_numbers.c
+<<<<<<< HEAD
  * Developer: MOSES GACHANJA
+=======
+ * Developer: Moses Gachanja
+>>>>>>> origin/master
  */
 
 #include <stdio.h>
