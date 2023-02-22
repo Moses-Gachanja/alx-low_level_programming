@@ -3,9 +3,6 @@
 /**
  * main - find sum of multiples of 3 and 5 less than 1024
  *
- * Created by: Lweya-Joe
- * cc: 5th july 2022
- *
  * Return: 0 if successful
  */
 
